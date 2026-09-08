@@ -8,3 +8,4 @@ bcrypt==5.0.0
 python-multipart==0.0.20
 openai==1.58.1
 psycopg[binary]==3.2.3
+psycopg2-binary==2.9.10
